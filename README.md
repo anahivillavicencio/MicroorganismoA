@@ -1,0 +1,2 @@
+# MicroorganismoA
+Streptococcus pneumoniae
